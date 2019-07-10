@@ -1,0 +1,1731 @@
+{
+  "nodes": [
+    {
+      "x": 614.8537,
+      "y": -92.17344,
+      "id": "Mohamed Almallah",
+      "group": 1
+    },
+    {
+      "x": 643.9363,
+      "y": -112.645134,
+      "id": "Moutaz Almallah",
+      "group": 1
+    },
+    {
+      "x": 330.06052,
+      "y": 689.5738,
+      "id": "Abdelilah el Fouad",
+      "group": 1
+    },
+    {
+      "x": 422.409,
+      "y": 737.23517,
+      "id": "Yousef Hichman",
+      "group": 1
+    },
+    {
+      "x": 538.6656,
+      "y": 810.8441,
+      "id": "Nasredine Boushoa",
+      "group": 1
+    },
+    {
+      "x": 480.42932,
+      "y": 756.285,
+      "id": "Mustafa Ahmidan",
+      "group": 1
+    },
+    {
+      "x": 469.33737,
+      "y": 797.5447,
+      "id": "Said Ahmidan",
+      "group": 1
+    },
+    {
+      "x": 1.887651,
+      "y": 466.73203,
+      "id": "Mohamed Bahaiah",
+      "group": 1
+    },
+    {
+      "x": -37.021328,
+      "y": 460.12558,
+      "id": "Mamoun Darkazanli",
+      "group": 1
+    },
+    {
+      "x": -12.46293,
+      "y": 503.93076,
+      "id": "Anwar Adnan Ahmad",
+      "group": 1
+    },
+    {
+      "x": 1079.6372,
+      "y": 622.08734,
+      "id": "Waanid Altaraki Almasri",
+      "group": 1
+    },
+    {
+      "x": 302.8338,
+      "y": 780.8227,
+      "id": "El Gitanillo",
+      "group": 1
+    },
+    {
+      "x": 332.2316,
+      "y": 788.6428,
+      "id": "Raul Gonzales Perez",
+      "group": 1
+    },
+    {
+      "x": 251.45433,
+      "y": 785.13184,
+      "id": "Ivan Granados",
+      "group": 1
+    },
+    {
+      "x": 272.979,
+      "y": 750.1154,
+      "id": "Emilio Llamo",
+      "group": 1
+    },
+    {
+      "x": 363.10663,
+      "y": 707.4611,
+      "id": "Semaan Gaby Eid",
+      "group": 1
+    },
+    {
+      "x": 352.9194,
+      "y": 872.3745,
+      "id": "Rachid Adli",
+      "group": 8
+    },
+    {
+      "x": 275.97012,
+      "y": 819.1656,
+      "id": "Antonio Toro",
+      "group": 1
+    },
+    {
+      "x": 948.0715,
+      "y": 343.20056,
+      "id": "Abderrahim Zbakh",
+      "group": 3
+    },
+    {
+      "x": 136.74234,
+      "y": -105.70939,
+      "id": "Galeb Kalaje",
+      "group": 5
+    },
+    {
+      "x": 72.79984,
+      "y": 341.3804,
+      "id": "Said Bahaji",
+      "group": 5
+    },
+    {
+      "x": 48.08115,
+      "y": 300.99643,
+      "id": "Mohamed Belfatmi",
+      "group": 5
+    },
+    {
+      "x": 64.58136,
+      "y": 269.96365,
+      "id": "Ramzi Binalshibh",
+      "group": 5
+    },
+    {
+      "x": 572.8126,
+      "y": -58.604755,
+      "id": "Mohamed El Egipcio",
+      "group": 1
+    },
+    {
+      "x": 112.68737,
+      "y": 339.17072,
+      "id": "Mohamed Atta",
+      "group": 5
+    },
+    {
+      "x": 43.67703,
+      "y": 383.99783,
+      "id": "Abdul Fatal",
+      "group": 1
+    },
+    {
+      "x": 103.12392,
+      "y": -85.95343,
+      "id": "Abu Musad Alsakaoui",
+      "group": 5
+    },
+    {
+      "x": 6.171918,
+      "y": 299.157,
+      "id": "Driss Chebli",
+      "group": 1
+    },
+    {
+      "x": 938.75323,
+      "y": 404.72287,
+      "id": "Vinay Kholy",
+      "group": 1
+    },
+    {
+      "x": 1001.6842,
+      "y": 317.71945,
+      "id": "Anuar Asri Rifaat",
+      "group": 7
+    },
+    {
+      "x": 614.41895,
+      "y": 318.85562,
+      "id": "Mohamed Chaoui",
+      "group": 4
+    },
+    {
+      "x": 555.61993,
+      "y": -93.14405,
+      "id": "Allekema Lamari",
+      "group": 7
+    },
+    {
+      "x": 41.87877,
+      "y": 479.4107,
+      "id": "Abdelkarim el Mejjati",
+      "group": 6
+    },
+    {
+      "x": 585.702,
+      "y": 335.19876,
+      "id": "Mohamed Bekkali",
+      "group": 1
+    },
+    {
+      "x": 499.384,
+      "y": -50.689266,
+      "id": "Parlindumgan Siregar",
+      "group": 1
+    },
+    {
+      "x": 1047.6815,
+      "y": 647.3659,
+      "id": "Naima Oulad Akcha",
+      "group": 1
+    },
+    {
+      "x": 410.87888,
+      "y": 313.23694,
+      "id": "Jamal Zougam",
+      "group": 4
+    },
+    {
+      "x": 919.1481,
+      "y": 317.87476,
+      "id": "Basel Ghayoun",
+      "group": 2
+    },
+    {
+      "x": 911.88464,
+      "y": 383.02145,
+      "id": "Suresh Kumar",
+      "group": 1
+    },
+    {
+      "x": 923.5071,
+      "y": 278.31332,
+      "id": "Mohamed Chedadi",
+      "group": 2
+    },
+    {
+      "x": 268.0553,
+      "y": 54.189266,
+      "id": "Ghasoub Al Albrash",
+      "group": 1
+    },
+    {
+      "x": 892.874,
+      "y": 346.26297,
+      "id": "S B Abdelmajid Fakhet",
+      "group": 2
+    },
+    {
+      "x": 273.37506,
+      "y": 92.182816,
+      "id": "Imad Eddin Barakat",
+      "group": 5
+    },
+    {
+      "x": 122.46052,
+      "y": -144.95883,
+      "id": "Said Chedadi",
+      "group": 1
+    },
+    {
+      "x": 527.5141,
+      "y": 772.3721,
+      "id": "Jamal Ahmidan",
+      "group": 2
+    },
+    {
+      "x": 635.8915,
+      "y": 363.87274,
+      "id": "Abdelaziz Benyaich",
+      "group": 6
+    },
+    {
+      "x": 650.81104,
+      "y": 304.05762,
+      "id": "Abu Abderrahme",
+      "group": 6
+    },
+    {
+      "x": 18.864538,
+      "y": 421.2139,
+      "id": "Taysir Alouny",
+      "group": 1
+    },
+    {
+      "x": 524.35034,
+      "y": -30.996935,
+      "id": "Amer Azizi",
+      "group": 6
+    },
+    {
+      "x": 238.76512,
+      "y": 100.23679,
+      "id": "Shakur",
+      "group": 5
+    },
+    {
+      "x": 509.23987,
+      "y": 715.4326,
+      "id": "Hamid Ahmidan",
+      "group": 1
+    },
+    {
+      "x": 362.198,
+      "y": 635.17346,
+      "id": "Abdeluahid Berrak",
+      "group": 1
+    },
+    {
+      "x": 610.0612,
+      "y": 280.09198,
+      "id": "Said Berrak",
+      "group": 2
+    },
+    {
+      "x": 174.32199,
+      "y": -115.98088,
+      "id": "Otman El Gnaut",
+      "group": 1
+    },
+    {
+      "x": 303.61673,
+      "y": 106.48664,
+      "id": "OM. Othman",
+      "group": 1
+    },
+    {
+      "x": 655.42365,
+      "y": 394.55377,
+      "id": "Omar Dhegayes",
+      "group": 1
+    },
+    {
+      "x": 1074.3436,
+      "y": 666.2353,
+      "id": "Farid Oulad Ali",
+      "group": 1
+    },
+    {
+      "x": 603.2532,
+      "y": -35.846825,
+      "id": "Fouad El Morabit Anghar",
+      "group": 2
+    },
+    {
+      "x": 982.67664,
+      "y": 393.0232,
+      "id": "Mohamed Oulad Akcha",
+      "group": 7
+    },
+    {
+      "x": 988.6095,
+      "y": 356.43326,
+      "id": "Rachid Oulad Akcha",
+      "group": 2
+    },
+    {
+      "x": 975.10114,
+      "y": 286.91513,
+      "id": "Abddenabi Koujma",
+      "group": 7
+    },
+    {
+      "x": 400.19217,
+      "y": 683.9096,
+      "id": "Khalid Ouled Akcha",
+      "group": 1
+    },
+    {
+      "x": 1031.0558,
+      "y": 684.4167,
+      "id": "Rafa Zuher",
+      "group": 1
+    },
+    {
+      "x": 333.86884,
+      "y": 837.77014,
+      "id": "Jose Emilio Suarez",
+      "group": 1
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "label": "Associators"
+    },
+    {
+      "id": 2,
+      "label": "Field Operations Group (FOG)"
+    },
+    {
+      "id": 3,
+      "label": "Chemist"
+    },
+    {
+      "id": 4,
+      "label": "Linked to 9/11, Casablanca, FOG"
+    },
+    {
+      "id": 5,
+      "label": "Linked to 9/11"
+    },
+    {
+      "id": 6,
+      "label": "Linked to Casablanca"
+    },
+    {
+      "id": 7,
+      "label": "Linked to AVE, FOG"
+    },
+    {
+      "id": 8,
+      "label": "Linked to AVE"
+    }
+  ],
+  "links": [
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Mohamed Bekkali"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 3,
+      "target": "Mohamed Chaoui"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Vinay Kholy"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Suresh Kumar"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Mohamed Chedadi"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 4,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Abdelaziz Benyaich"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Abu Abderrahme"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 4,
+      "target": "Amer Azizi"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Abu Musad Alsakaoui"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Mohamed Atta"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 2,
+      "target": "Ramzi Binalshibh"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 2,
+      "target": "Mohamed Belfatmi"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 2,
+      "target": "Said Bahaji"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 2,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Abderrahim Zbakh"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Naima Oulad Akcha"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Basel Ghayoun"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "S B Abdelmajid Fakhet"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 2,
+      "target": "Abdeluahid Berrak"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 2,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Otman El Gnaut"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Allekema Lamari"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "OM. Othman"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Shakur"
+    },
+    {
+      "source": "Jamal Zougam",
+      "value": 1,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "Mohamed Bekkali",
+      "value": 1,
+      "target": "Mohamed Chaoui"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Vinay Kholy"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Suresh Kumar"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 3,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Abdelaziz Benyaich"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Abu Abderrahme"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 2,
+      "target": "Amer Azizi"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Abu Musad Alsakaoui"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Mohamed Atta"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Ramzi Binalshibh"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Mohamed Belfatmi"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Said Bahaji"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 2,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Abderrahim Zbakh"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Naima Oulad Akcha"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Abdelkarim el Mejjati"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Basel Ghayoun"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "S B Abdelmajid Fakhet"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Abdeluahid Berrak"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 2,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Otman El Gnaut"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "OM. Othman"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Shakur"
+    },
+    {
+      "source": "Mohamed Chaoui",
+      "value": 1,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "Vinay Kholy",
+      "value": 1,
+      "target": "Suresh Kumar"
+    },
+    {
+      "source": "Vinay Kholy",
+      "value": 1,
+      "target": "Abderrahim Zbakh"
+    },
+    {
+      "source": "Vinay Kholy",
+      "value": 1,
+      "target": "Naima Oulad Akcha"
+    },
+    {
+      "source": "Vinay Kholy",
+      "value": 1,
+      "target": "Basel Ghayoun"
+    },
+    {
+      "source": "Vinay Kholy",
+      "value": 1,
+      "target": "S B Abdelmajid Fakhet"
+    },
+    {
+      "source": "Vinay Kholy",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Vinay Kholy",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Vinay Kholy",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Suresh Kumar",
+      "value": 1,
+      "target": "Abderrahim Zbakh"
+    },
+    {
+      "source": "Suresh Kumar",
+      "value": 1,
+      "target": "Naima Oulad Akcha"
+    },
+    {
+      "source": "Suresh Kumar",
+      "value": 1,
+      "target": "Basel Ghayoun"
+    },
+    {
+      "source": "Suresh Kumar",
+      "value": 1,
+      "target": "S B Abdelmajid Fakhet"
+    },
+    {
+      "source": "Suresh Kumar",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Suresh Kumar",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Suresh Kumar",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Mohamed Chedadi",
+      "value": 1,
+      "target": "Fouad El Morabit Anghar"
+    },
+    {
+      "source": "Mohamed Chedadi",
+      "value": 1,
+      "target": "Said Chedadi"
+    },
+    {
+      "source": "Imad Eddin Barakat",
+      "value": 1,
+      "target": "Abdelaziz Benyaich"
+    },
+    {
+      "source": "Imad Eddin Barakat",
+      "value": 3,
+      "target": "Amer Azizi"
+    },
+    {
+      "source": "Imad Eddin Barakat",
+      "value": 1,
+      "target": "Abu Musad Alsakaoui"
+    },
+    {
+      "source": "Imad Eddin Barakat",
+      "value": 1,
+      "target": "Abdeluahid Berrak"
+    },
+    {
+      "source": "Imad Eddin Barakat",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Abdelaziz Benyaich",
+      "value": 1,
+      "target": "Abu Abderrahme"
+    },
+    {
+      "source": "Omar Dhegayes",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Omar Dhegayes",
+      "value": 2,
+      "target": "Abdelaziz Benyaich"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 1,
+      "target": "Abu Musad Alsakaoui"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 1,
+      "target": "Ramzi Binalshibh"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 2,
+      "target": "Mohamed Belfatmi"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 1,
+      "target": "Said Bahaji"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 2,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 1,
+      "target": "S B Abdelmajid Fakhet"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 1,
+      "target": "Parlindumgan Siregar"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 1,
+      "target": "OM. Othman"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 1,
+      "target": "Shakur"
+    },
+    {
+      "source": "Amer Azizi",
+      "value": 2,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "Abu Musad Alsakaoui",
+      "value": 1,
+      "target": "Mohamed Atta"
+    },
+    {
+      "source": "Abu Musad Alsakaoui",
+      "value": 1,
+      "target": "Ramzi Binalshibh"
+    },
+    {
+      "source": "Abu Musad Alsakaoui",
+      "value": 1,
+      "target": "Mohamed Belfatmi"
+    },
+    {
+      "source": "Abu Musad Alsakaoui",
+      "value": 1,
+      "target": "Said Bahaji"
+    },
+    {
+      "source": "Abu Musad Alsakaoui",
+      "value": 1,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Mohamed Atta",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Mohamed Atta",
+      "value": 1,
+      "target": "Amer Azizi"
+    },
+    {
+      "source": "Mohamed Atta",
+      "value": 2,
+      "target": "Mohamed Belfatmi"
+    },
+    {
+      "source": "Mohamed Atta",
+      "value": 2,
+      "target": "Said Bahaji"
+    },
+    {
+      "source": "Mohamed Atta",
+      "value": 1,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Mohamed Atta",
+      "value": 1,
+      "target": "Shakur"
+    },
+    {
+      "source": "Ramzi Binalshibh",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Ramzi Binalshibh",
+      "value": 1,
+      "target": "Mohamed Atta"
+    },
+    {
+      "source": "Ramzi Binalshibh",
+      "value": 3,
+      "target": "Mohamed Belfatmi"
+    },
+    {
+      "source": "Ramzi Binalshibh",
+      "value": 2,
+      "target": "Said Bahaji"
+    },
+    {
+      "source": "Ramzi Binalshibh",
+      "value": 1,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Ramzi Binalshibh",
+      "value": 1,
+      "target": "Shakur"
+    },
+    {
+      "source": "Mohamed Belfatmi",
+      "value": 2,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Mohamed Belfatmi",
+      "value": 3,
+      "target": "Said Bahaji"
+    },
+    {
+      "source": "Mohamed Belfatmi",
+      "value": 1,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Mohamed Belfatmi",
+      "value": 1,
+      "target": "Shakur"
+    },
+    {
+      "source": "Mohamed Belfatmi",
+      "value": 1,
+      "target": "Driss Chebli"
+    },
+    {
+      "source": "Said Bahaji",
+      "value": 2,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Said Bahaji",
+      "value": 1,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Said Bahaji",
+      "value": 1,
+      "target": "Shakur"
+    },
+    {
+      "source": "Galeb Kalaje",
+      "value": 3,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Galeb Kalaje",
+      "value": 1,
+      "target": "Abdeluahid Berrak"
+    },
+    {
+      "source": "Galeb Kalaje",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Galeb Kalaje",
+      "value": 1,
+      "target": "Otman El Gnaut"
+    },
+    {
+      "source": "Galeb Kalaje",
+      "value": 1,
+      "target": "OM. Othman"
+    },
+    {
+      "source": "Galeb Kalaje",
+      "value": 1,
+      "target": "Shakur"
+    },
+    {
+      "source": "Galeb Kalaje",
+      "value": 1,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Mohamed Chedadi"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Naima Oulad Akcha"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Basel Ghayoun"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "S B Abdelmajid Fakhet"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Mohamed Oulad Akcha"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Rachid Oulad Akcha"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Abddenabi Koujma"
+    },
+    {
+      "source": "Abderrahim Zbakh",
+      "value": 1,
+      "target": "Anuar Asri Rifaat"
+    },
+    {
+      "source": "Farid Oulad Ali",
+      "value": 1,
+      "target": "Mohamed Chedadi"
+    },
+    {
+      "source": "Farid Oulad Ali",
+      "value": 1,
+      "target": "Khalid Ouled Akcha"
+    },
+    {
+      "source": "Farid Oulad Ali",
+      "value": 1,
+      "target": "Rafa Zuher"
+    },
+    {
+      "source": "Farid Oulad Ali",
+      "value": 1,
+      "target": "Naima Oulad Akcha"
+    },
+    {
+      "source": "Farid Oulad Ali",
+      "value": 1,
+      "target": "Mohamed Oulad Akcha"
+    },
+    {
+      "source": "Farid Oulad Ali",
+      "value": 1,
+      "target": "Rachid Oulad Akcha"
+    },
+    {
+      "source": "Jose Emilio Suarez",
+      "value": 1,
+      "target": "Rafa Zuher"
+    },
+    {
+      "source": "Jose Emilio Suarez",
+      "value": 1,
+      "target": "Antonio Toro"
+    },
+    {
+      "source": "Jose Emilio Suarez",
+      "value": 1,
+      "target": "Rachid Adli"
+    },
+    {
+      "source": "Jose Emilio Suarez",
+      "value": 1,
+      "target": "Semaan Gaby Eid"
+    },
+    {
+      "source": "Jose Emilio Suarez",
+      "value": 1,
+      "target": "Emilio Llamo"
+    },
+    {
+      "source": "Jose Emilio Suarez",
+      "value": 1,
+      "target": "Ivan Granados"
+    },
+    {
+      "source": "Jose Emilio Suarez",
+      "value": 1,
+      "target": "Raul Gonzales Perez"
+    },
+    {
+      "source": "Jose Emilio Suarez",
+      "value": 1,
+      "target": "El Gitanillo"
+    },
+    {
+      "source": "Khalid Ouled Akcha",
+      "value": 1,
+      "target": "Naima Oulad Akcha"
+    },
+    {
+      "source": "Khalid Ouled Akcha",
+      "value": 1,
+      "target": "Mohamed Oulad Akcha"
+    },
+    {
+      "source": "Khalid Ouled Akcha",
+      "value": 1,
+      "target": "Rachid Oulad Akcha"
+    },
+    {
+      "source": "Khalid Ouled Akcha",
+      "value": 1,
+      "target": "Semaan Gaby Eid"
+    },
+    {
+      "source": "Rafa Zuher",
+      "value": 1,
+      "target": "Naima Oulad Akcha"
+    },
+    {
+      "source": "Naima Oulad Akcha",
+      "value": 1,
+      "target": "Basel Ghayoun"
+    },
+    {
+      "source": "Naima Oulad Akcha",
+      "value": 1,
+      "target": "S B Abdelmajid Fakhet"
+    },
+    {
+      "source": "Naima Oulad Akcha",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Naima Oulad Akcha",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Naima Oulad Akcha",
+      "value": 1,
+      "target": "Mohamed Oulad Akcha"
+    },
+    {
+      "source": "Naima Oulad Akcha",
+      "value": 1,
+      "target": "Rachid Oulad Akcha"
+    },
+    {
+      "source": "Naima Oulad Akcha",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Naima Oulad Akcha",
+      "value": 1,
+      "target": "Waanid Altaraki Almasri"
+    },
+    {
+      "source": "Abdelkarim el Mejjati",
+      "value": 1,
+      "target": "Abdelaziz Benyaich"
+    },
+    {
+      "source": "Abdelkarim el Mejjati",
+      "value": 1,
+      "target": "Abu Abderrahme"
+    },
+    {
+      "source": "Abdelkarim el Mejjati",
+      "value": 1,
+      "target": "Anwar Adnan Ahmad"
+    },
+    {
+      "source": "Abdelkarim el Mejjati",
+      "value": 1,
+      "target": "Mohamed Bahaiah"
+    },
+    {
+      "source": "Anwar Adnan Ahmad",
+      "value": 1,
+      "target": "Mamoun Darkazanli"
+    },
+    {
+      "source": "Anwar Adnan Ahmad",
+      "value": 1,
+      "target": "Mohamed Bahaiah"
+    },
+    {
+      "source": "Anwar Adnan Ahmad",
+      "value": 1,
+      "target": "Taysir Alouny"
+    },
+    {
+      "source": "Basel Ghayoun",
+      "value": 1,
+      "target": "S B Abdelmajid Fakhet"
+    },
+    {
+      "source": "Basel Ghayoun",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Basel Ghayoun",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Basel Ghayoun",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Basel Ghayoun",
+      "value": 1,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "S B Abdelmajid Fakhet",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "S B Abdelmajid Fakhet",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "S B Abdelmajid Fakhet",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "S B Abdelmajid Fakhet",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Jamal Ahmidan",
+      "value": 1,
+      "target": "Said Ahmidan"
+    },
+    {
+      "source": "Jamal Ahmidan",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Jamal Ahmidan",
+      "value": 1,
+      "target": "Mustafa Ahmidan"
+    },
+    {
+      "source": "Jamal Ahmidan",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Said Ahmidan",
+      "value": 1,
+      "target": "Hamid Ahmidan"
+    },
+    {
+      "source": "Said Ahmidan",
+      "value": 1,
+      "target": "Mustafa Ahmidan"
+    },
+    {
+      "source": "Hamid Ahmidan",
+      "value": 1,
+      "target": "Mustafa Ahmidan"
+    },
+    {
+      "source": "Hamid Ahmidan",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Mustafa Ahmidan",
+      "value": 1,
+      "target": "Semaan Gaby Eid"
+    },
+    {
+      "source": "Antonio Toro",
+      "value": 1,
+      "target": "Emilio Llamo"
+    },
+    {
+      "source": "Antonio Toro",
+      "value": 1,
+      "target": "Raul Gonzales Perez"
+    },
+    {
+      "source": "Antonio Toro",
+      "value": 1,
+      "target": "El Gitanillo"
+    },
+    {
+      "source": "Mohamed Oulad Akcha",
+      "value": 1,
+      "target": "Rachid Oulad Akcha"
+    },
+    {
+      "source": "Mamoun Darkazanli",
+      "value": 1,
+      "target": "Abdelkarim el Mejjati"
+    },
+    {
+      "source": "Mamoun Darkazanli",
+      "value": 1,
+      "target": "Mohamed Bahaiah"
+    },
+    {
+      "source": "Mamoun Darkazanli",
+      "value": 1,
+      "target": "Taysir Alouny"
+    },
+    {
+      "source": "Abdeluahid Berrak",
+      "value": 1,
+      "target": "Mohamed Chedadi"
+    },
+    {
+      "source": "Abdeluahid Berrak",
+      "value": 1,
+      "target": "Amer Azizi"
+    },
+    {
+      "source": "Abdeluahid Berrak",
+      "value": 1,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Abdeluahid Berrak",
+      "value": 1,
+      "target": "Said Berrak"
+    },
+    {
+      "source": "Abdeluahid Berrak",
+      "value": 1,
+      "target": "Otman El Gnaut"
+    },
+    {
+      "source": "Abdeluahid Berrak",
+      "value": 1,
+      "target": "OM. Othman"
+    },
+    {
+      "source": "Abdeluahid Berrak",
+      "value": 1,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "Abdeluahid Berrak",
+      "value": 1,
+      "target": "Semaan Gaby Eid"
+    },
+    {
+      "source": "Said Berrak",
+      "value": 1,
+      "target": "Amer Azizi"
+    },
+    {
+      "source": "Said Berrak",
+      "value": 1,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Said Berrak",
+      "value": 1,
+      "target": "Otman El Gnaut"
+    },
+    {
+      "source": "Said Berrak",
+      "value": 1,
+      "target": "OM. Othman"
+    },
+    {
+      "source": "Said Berrak",
+      "value": 1,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "Otman El Gnaut",
+      "value": 1,
+      "target": "Mohamed Chedadi"
+    },
+    {
+      "source": "Otman El Gnaut",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Otman El Gnaut",
+      "value": 1,
+      "target": "Amer Azizi"
+    },
+    {
+      "source": "Otman El Gnaut",
+      "value": 1,
+      "target": "OM. Othman"
+    },
+    {
+      "source": "Otman El Gnaut",
+      "value": 1,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "Abdelilah el Fouad",
+      "value": 1,
+      "target": "Semaan Gaby Eid"
+    },
+    {
+      "source": "Allekema Lamari",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Allekema Lamari",
+      "value": 1,
+      "target": "Amer Azizi"
+    },
+    {
+      "source": "Allekema Lamari",
+      "value": 1,
+      "target": "Mohamed El Egipcio"
+    },
+    {
+      "source": "Ghasoub Al Albrash",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Said Chedadi",
+      "value": 1,
+      "target": "Galeb Kalaje"
+    },
+    {
+      "source": "Mohamed Bahaiah",
+      "value": 2,
+      "target": "Taysir Alouny"
+    },
+    {
+      "source": "Taysir Alouny",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Taysir Alouny",
+      "value": 1,
+      "target": "Abdelkarim el Mejjati"
+    },
+    {
+      "source": "OM. Othman",
+      "value": 2,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Shakur",
+      "value": 2,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Shakur",
+      "value": 1,
+      "target": "Abu Musad Alsakaoui"
+    },
+    {
+      "source": "Driss Chebli",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Abdul Fatal",
+      "value": 1,
+      "target": "Said Bahaji"
+    },
+    {
+      "source": "Abdul Fatal",
+      "value": 1,
+      "target": "Taysir Alouny"
+    },
+    {
+      "source": "Mohamed El Egipcio",
+      "value": 1,
+      "target": "Imad Eddin Barakat"
+    },
+    {
+      "source": "Mohamed El Egipcio",
+      "value": 1,
+      "target": "Fouad El Morabit Anghar"
+    },
+    {
+      "source": "Mohamed El Egipcio",
+      "value": 1,
+      "target": "Moutaz Almallah"
+    },
+    {
+      "source": "Mohamed El Egipcio",
+      "value": 1,
+      "target": "Mohamed Almallah"
+    },
+    {
+      "source": "Nasredine Boushoa",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Semaan Gaby Eid",
+      "value": 1,
+      "target": "Jamal Ahmidan"
+    },
+    {
+      "source": "Semaan Gaby Eid",
+      "value": 1,
+      "target": "Emilio Llamo"
+    },
+    {
+      "source": "Semaan Gaby Eid",
+      "value": 1,
+      "target": "Ivan Granados"
+    },
+    {
+      "source": "Semaan Gaby Eid",
+      "value": 1,
+      "target": "Raul Gonzales Perez"
+    },
+    {
+      "source": "Semaan Gaby Eid",
+      "value": 1,
+      "target": "El Gitanillo"
+    },
+    {
+      "source": "Semaan Gaby Eid",
+      "value": 1,
+      "target": "Yousef Hichman"
+    },
+    {
+      "source": "Emilio Llamo",
+      "value": 1,
+      "target": "Ivan Granados"
+    },
+    {
+      "source": "Emilio Llamo",
+      "value": 1,
+      "target": "Raul Gonzales Perez"
+    },
+    {
+      "source": "Emilio Llamo",
+      "value": 1,
+      "target": "El Gitanillo"
+    },
+    {
+      "source": "Ivan Granados",
+      "value": 1,
+      "target": "Antonio Toro"
+    },
+    {
+      "source": "Ivan Granados",
+      "value": 1,
+      "target": "Raul Gonzales Perez"
+    },
+    {
+      "source": "Ivan Granados",
+      "value": 1,
+      "target": "El Gitanillo"
+    },
+    {
+      "source": "Raul Gonzales Perez",
+      "value": 1,
+      "target": "El Gitanillo"
+    },
+    {
+      "source": "Moutaz Almallah",
+      "value": 1,
+      "target": "Mohamed Almallah"
+    },
+    {
+      "source": "Yousef Hichman",
+      "value": 1,
+      "target": "Mustafa Ahmidan"
+    }
+  ],
+  "params": {
+    "paused": false,
+    "fdlTimestep": 0.5527272820472717,
+    "fdlEdgeScale": 0.009999999776482582,
+    "fpfSpringLength": 0.009999999776482582,
+    "fdlCoulombConstant": 1000,
+    "fdlPointScale": 7.717171669006348,
+    "fdlSpringConstant": 0.009999999776482582,
+    "clusterSpringLength": 200,
+    "fdlScale": 0.6738790273666382,
+    "unweighted": false,
+    "fdlCurCenX": 474.85321044921875,
+    "fdlCurCenY": 390.4139404296875,
+    "fpfSpringForce": 1.22151517868042,
+    "fpfCoulombConstant": 1111.1199951171875,
+    "fdlRestingLength": 0.009999999776482582,
+    "colormap": 0,
+    "unweightedEgoHops": 1
+  },
+  "barcode": {
+    "scrollBX": 196,
+    "status": [
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "REPEL",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "REPEL",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "REPEL",
+      "REPEL",
+      "ATTRACT",
+      "ATTRACT",
+      "REPEL",
+      "REPEL",
+      "REPEL",
+      "REPEL"
+    ]
+  }
+}

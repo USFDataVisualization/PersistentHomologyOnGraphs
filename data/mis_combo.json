@@ -1,0 +1,1884 @@
+{
+  "nodes": [
+    {
+      "x": 708.5539,
+      "y": 566.7188,
+      "id": "Myriel",
+      "group": 1
+    },
+    {
+      "x": 725.981,
+      "y": 569.6617,
+      "id": "Napoleon",
+      "group": 1
+    },
+    {
+      "x": 700.6695,
+      "y": 562.714,
+      "id": "Mlle.Baptistine",
+      "group": 1
+    },
+    {
+      "x": 711.0404,
+      "y": 557.6604,
+      "id": "Mme.Magloire",
+      "group": 1
+    },
+    {
+      "x": 701.26056,
+      "y": 581.9847,
+      "id": "CountessdeLo",
+      "group": 1
+    },
+    {
+      "x": 710.66986,
+      "y": 580.24005,
+      "id": "Geborand",
+      "group": 1
+    },
+    {
+      "x": 718.368,
+      "y": 575.02734,
+      "id": "Champtercier",
+      "group": 1
+    },
+    {
+      "x": 719.299,
+      "y": 588.51917,
+      "id": "Cravatte",
+      "group": 1
+    },
+    {
+      "x": 708.7908,
+      "y": 590.3667,
+      "id": "Count",
+      "group": 1
+    },
+    {
+      "x": 726.7386,
+      "y": 581.214,
+      "id": "OldMan",
+      "group": 1
+    },
+    {
+      "x": 666.3681,
+      "y": 498.34265,
+      "id": "Labarre",
+      "group": 2
+    },
+    {
+      "x": 659.23376,
+      "y": 473.0133,
+      "id": "Valjean",
+      "group": 2
+    },
+    {
+      "x": 798.1352,
+      "y": 360.00925,
+      "id": "Marguerite",
+      "group": 3
+    },
+    {
+      "x": 652.70764,
+      "y": 484.94662,
+      "id": "Mme.deR",
+      "group": 2
+    },
+    {
+      "x": 654.8845,
+      "y": 495.5771,
+      "id": "Isabeau",
+      "group": 2
+    },
+    {
+      "x": 662.52496,
+      "y": 489.11777,
+      "id": "Gervais",
+      "group": 2
+    },
+    {
+      "x": 814.98444,
+      "y": 319.34155,
+      "id": "Tholomyes",
+      "group": 3
+    },
+    {
+      "x": 828.2068,
+      "y": 312.6676,
+      "id": "Listolier",
+      "group": 3
+    },
+    {
+      "x": 835.1913,
+      "y": 312.32312,
+      "id": "Fameuil",
+      "group": 3
+    },
+    {
+      "x": 831.343,
+      "y": 322.83728,
+      "id": "Blacheville",
+      "group": 3
+    },
+    {
+      "x": 832.2004,
+      "y": 331.07947,
+      "id": "Favourite",
+      "group": 3
+    },
+    {
+      "x": 845.63824,
+      "y": 329.42178,
+      "id": "Dahlia",
+      "group": 3
+    },
+    {
+      "x": 846.6834,
+      "y": 322.2287,
+      "id": "Zephine",
+      "group": 3
+    },
+    {
+      "x": 789.3917,
+      "y": 351.49692,
+      "id": "Fantine",
+      "group": 3
+    },
+    {
+      "x": 617.1237,
+      "y": 324.38223,
+      "id": "Mme.Thenardier",
+      "group": 4
+    },
+    {
+      "x": 565.89215,
+      "y": 311.5786,
+      "id": "Thenardier",
+      "group": 4
+    },
+    {
+      "x": 539.10675,
+      "y": 440.31796,
+      "id": "Cosette",
+      "group": 5
+    },
+    {
+      "x": 604.7546,
+      "y": 388.3555,
+      "id": "Javert",
+      "group": 4
+    },
+    {
+      "x": 841.3268,
+      "y": 554.55255,
+      "id": "Fauchelevent",
+      "group": 0
+    },
+    {
+      "x": 676.59125,
+      "y": 458.86337,
+      "id": "Bamatabois",
+      "group": 2
+    },
+    {
+      "x": 720.46094,
+      "y": 444.77975,
+      "id": "Perpetue",
+      "group": 3
+    },
+    {
+      "x": 697.95013,
+      "y": 451.30548,
+      "id": "Simplice",
+      "group": 2
+    },
+    {
+      "x": 676.5089,
+      "y": 494.2188,
+      "id": "Scaufflaire",
+      "group": 2
+    },
+    {
+      "x": 656.711,
+      "y": 462.15637,
+      "id": "Woman1",
+      "group": 2
+    },
+    {
+      "x": 674.37115,
+      "y": 483.29462,
+      "id": "Judge",
+      "group": 2
+    },
+    {
+      "x": 681.8348,
+      "y": 480.97333,
+      "id": "Champmathieu",
+      "group": 2
+    },
+    {
+      "x": 668.1054,
+      "y": 478.80957,
+      "id": "Brevet",
+      "group": 2
+    },
+    {
+      "x": 671.4762,
+      "y": 471.41095,
+      "id": "Chenildieu",
+      "group": 2
+    },
+    {
+      "x": 679.3065,
+      "y": 473.43558,
+      "id": "Cochepaille",
+      "group": 2
+    },
+    {
+      "x": 548.6187,
+      "y": 333.17593,
+      "id": "Pontmercy",
+      "group": 4
+    },
+    {
+      "x": 584.81415,
+      "y": 293.99615,
+      "id": "Boulatruelle",
+      "group": 6
+    },
+    {
+      "x": 472.5473,
+      "y": 282.2686,
+      "id": "Eponine",
+      "group": 4
+    },
+    {
+      "x": 574.2912,
+      "y": 295.5604,
+      "id": "Anzelma",
+      "group": 4
+    },
+    {
+      "x": 642.1371,
+      "y": 468.18173,
+      "id": "Woman2",
+      "group": 5
+    },
+    {
+      "x": 842.86145,
+      "y": 561.61926,
+      "id": "MotherInnocent",
+      "group": 0
+    },
+    {
+      "x": 861.9833,
+      "y": 565.7839,
+      "id": "Gribier",
+      "group": 0
+    },
+    {
+      "x": 287.7171,
+      "y": 137.92038,
+      "id": "Jondrette",
+      "group": 7
+    },
+    {
+      "x": 308.48944,
+      "y": 163.43925,
+      "id": "Mme.Burgon",
+      "group": 7
+    },
+    {
+      "x": 350.6028,
+      "y": 215.02625,
+      "id": "Gavroche",
+      "group": 8
+    },
+    {
+      "x": 405.35684,
+      "y": 467.39185,
+      "id": "Gillenormand",
+      "group": 5
+    },
+    {
+      "x": 622.0694,
+      "y": 315.66983,
+      "id": "Magnon",
+      "group": 5
+    },
+    {
+      "x": 366.12003,
+      "y": 519.5496,
+      "id": "Mlle.Gillenormand",
+      "group": 5
+    },
+    {
+      "x": 538.1704,
+      "y": 351.95633,
+      "id": "Mme.Pontmercy",
+      "group": 5
+    },
+    {
+      "x": 335.76483,
+      "y": 545.14166,
+      "id": "Mlle.Vaubois",
+      "group": 5
+    },
+    {
+      "x": 356.9314,
+      "y": 515.6851,
+      "id": "Lt.Gillenormand",
+      "group": 5
+    },
+    {
+      "x": 405.36057,
+      "y": 341.70248,
+      "id": "Marius",
+      "group": 8
+    },
+    {
+      "x": 381.2008,
+      "y": 469.8954,
+      "id": "BaronessT",
+      "group": 5
+    },
+    {
+      "x": 261.36133,
+      "y": 256.5048,
+      "id": "Mabeuf",
+      "group": 8
+    },
+    {
+      "x": 330.41827,
+      "y": 265.27457,
+      "id": "Enjolras",
+      "group": 8
+    },
+    {
+      "x": 271.01358,
+      "y": 257.70956,
+      "id": "Combeferre",
+      "group": 8
+    },
+    {
+      "x": 311.90262,
+      "y": 255.15625,
+      "id": "Prouvaire",
+      "group": 8
+    },
+    {
+      "x": 312.85556,
+      "y": 266.30258,
+      "id": "Feuilly",
+      "group": 8
+    },
+    {
+      "x": 319.27878,
+      "y": 261.61823,
+      "id": "Courfeyrac",
+      "group": 8
+    },
+    {
+      "x": 304.43393,
+      "y": 256.05853,
+      "id": "Bahorel",
+      "group": 8
+    },
+    {
+      "x": 320.5847,
+      "y": 271.41446,
+      "id": "Bossuet",
+      "group": 8
+    },
+    {
+      "x": 305.18436,
+      "y": 266.8421,
+      "id": "Joly",
+      "group": 8
+    },
+    {
+      "x": 313.957,
+      "y": 248.35722,
+      "id": "Grantaire",
+      "group": 8
+    },
+    {
+      "x": 225.1673,
+      "y": 250.36476,
+      "id": "MotherPlutarch",
+      "group": 9
+    },
+    {
+      "x": 555.1387,
+      "y": 316.5516,
+      "id": "Gueulemer",
+      "group": 4
+    },
+    {
+      "x": 560.5068,
+      "y": 313.33258,
+      "id": "Babet",
+      "group": 4
+    },
+    {
+      "x": 565.38666,
+      "y": 321.38107,
+      "id": "Claquesous",
+      "group": 4
+    },
+    {
+      "x": 548.60626,
+      "y": 316.68524,
+      "id": "Montparnasse",
+      "group": 4
+    },
+    {
+      "x": 545.9204,
+      "y": 453.30212,
+      "id": "Toussaint",
+      "group": 5
+    },
+    {
+      "x": 322.18616,
+      "y": 165.71486,
+      "id": "Child1",
+      "group": 10
+    },
+    {
+      "x": 309.0197,
+      "y": 143.89746,
+      "id": "Child2",
+      "group": 10
+    },
+    {
+      "x": 551.3657,
+      "y": 294.20804,
+      "id": "Brujon",
+      "group": 4
+    },
+    {
+      "x": 325.3532,
+      "y": 210.77388,
+      "id": "Mme.Hucheloup",
+      "group": 8
+    }
+  ],
+  "groups": [
+    {
+      "id": 0,
+      "label": "The Convent"
+    },
+    {
+      "id": 1,
+      "label": "Circle with Myriel"
+    },
+    {
+      "id": 2,
+      "label": "Circle with Valjean"
+    },
+    {
+      "id": 3,
+      "label": "Factory Workers"
+    },
+    {
+      "id": 4,
+      "label": "Antagonists"
+    },
+    {
+      "id": 5,
+      "label": "Circle with Gillenormand"
+    },
+    {
+      "id": 6,
+      "label": "Seeking Buried Treasure"
+    },
+    {
+      "id": 7,
+      "label": "Jondrette Family"
+    },
+    {
+      "id": 8,
+      "label": "Friends of the ABC"
+    },
+    {
+      "id": 9,
+      "label": "Servent of Mabeuf"
+    },
+    {
+      "id": 10,
+      "label": "Children"
+    }
+  ],
+  "links": [
+    {
+      "source": "Napoleon",
+      "value": 1,
+      "target": "Myriel"
+    },
+    {
+      "source": "Mlle.Baptistine",
+      "value": 8,
+      "target": "Myriel"
+    },
+    {
+      "source": "Mme.Magloire",
+      "value": 10,
+      "target": "Myriel"
+    },
+    {
+      "source": "Mme.Magloire",
+      "value": 6,
+      "target": "Mlle.Baptistine"
+    },
+    {
+      "source": "CountessdeLo",
+      "value": 1,
+      "target": "Myriel"
+    },
+    {
+      "source": "Geborand",
+      "value": 1,
+      "target": "Myriel"
+    },
+    {
+      "source": "Champtercier",
+      "value": 1,
+      "target": "Myriel"
+    },
+    {
+      "source": "Cravatte",
+      "value": 1,
+      "target": "Myriel"
+    },
+    {
+      "source": "Count",
+      "value": 2,
+      "target": "Myriel"
+    },
+    {
+      "source": "OldMan",
+      "value": 1,
+      "target": "Myriel"
+    },
+    {
+      "source": "Valjean",
+      "value": 1,
+      "target": "Labarre"
+    },
+    {
+      "source": "Valjean",
+      "value": 3,
+      "target": "Mme.Magloire"
+    },
+    {
+      "source": "Valjean",
+      "value": 3,
+      "target": "Mlle.Baptistine"
+    },
+    {
+      "source": "Valjean",
+      "value": 5,
+      "target": "Myriel"
+    },
+    {
+      "source": "Marguerite",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Mme.deR",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Isabeau",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Gervais",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Listolier",
+      "value": 4,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Fameuil",
+      "value": 4,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Fameuil",
+      "value": 4,
+      "target": "Listolier"
+    },
+    {
+      "source": "Blacheville",
+      "value": 4,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Blacheville",
+      "value": 4,
+      "target": "Listolier"
+    },
+    {
+      "source": "Blacheville",
+      "value": 4,
+      "target": "Fameuil"
+    },
+    {
+      "source": "Favourite",
+      "value": 3,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Favourite",
+      "value": 3,
+      "target": "Listolier"
+    },
+    {
+      "source": "Favourite",
+      "value": 3,
+      "target": "Fameuil"
+    },
+    {
+      "source": "Favourite",
+      "value": 4,
+      "target": "Blacheville"
+    },
+    {
+      "source": "Dahlia",
+      "value": 3,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Dahlia",
+      "value": 3,
+      "target": "Listolier"
+    },
+    {
+      "source": "Dahlia",
+      "value": 3,
+      "target": "Fameuil"
+    },
+    {
+      "source": "Dahlia",
+      "value": 3,
+      "target": "Blacheville"
+    },
+    {
+      "source": "Dahlia",
+      "value": 5,
+      "target": "Favourite"
+    },
+    {
+      "source": "Zephine",
+      "value": 3,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Zephine",
+      "value": 3,
+      "target": "Listolier"
+    },
+    {
+      "source": "Zephine",
+      "value": 3,
+      "target": "Fameuil"
+    },
+    {
+      "source": "Zephine",
+      "value": 3,
+      "target": "Blacheville"
+    },
+    {
+      "source": "Zephine",
+      "value": 4,
+      "target": "Favourite"
+    },
+    {
+      "source": "Zephine",
+      "value": 4,
+      "target": "Dahlia"
+    },
+    {
+      "source": "Fantine",
+      "value": 3,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Fantine",
+      "value": 3,
+      "target": "Listolier"
+    },
+    {
+      "source": "Fantine",
+      "value": 3,
+      "target": "Fameuil"
+    },
+    {
+      "source": "Fantine",
+      "value": 3,
+      "target": "Blacheville"
+    },
+    {
+      "source": "Fantine",
+      "value": 4,
+      "target": "Favourite"
+    },
+    {
+      "source": "Fantine",
+      "value": 4,
+      "target": "Dahlia"
+    },
+    {
+      "source": "Fantine",
+      "value": 4,
+      "target": "Zephine"
+    },
+    {
+      "source": "Fantine",
+      "value": 2,
+      "target": "Marguerite"
+    },
+    {
+      "source": "Fantine",
+      "value": 9,
+      "target": "Valjean"
+    },
+    {
+      "source": "Mme.Thenardier",
+      "value": 2,
+      "target": "Fantine"
+    },
+    {
+      "source": "Mme.Thenardier",
+      "value": 7,
+      "target": "Valjean"
+    },
+    {
+      "source": "Thenardier",
+      "value": 13,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Thenardier",
+      "value": 1,
+      "target": "Fantine"
+    },
+    {
+      "source": "Thenardier",
+      "value": 12,
+      "target": "Valjean"
+    },
+    {
+      "source": "Cosette",
+      "value": 4,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Cosette",
+      "value": 31,
+      "target": "Valjean"
+    },
+    {
+      "source": "Cosette",
+      "value": 1,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Cosette",
+      "value": 1,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Javert",
+      "value": 17,
+      "target": "Valjean"
+    },
+    {
+      "source": "Javert",
+      "value": 5,
+      "target": "Fantine"
+    },
+    {
+      "source": "Javert",
+      "value": 5,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Javert",
+      "value": 1,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Javert",
+      "value": 1,
+      "target": "Cosette"
+    },
+    {
+      "source": "Fauchelevent",
+      "value": 8,
+      "target": "Valjean"
+    },
+    {
+      "source": "Fauchelevent",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Bamatabois",
+      "value": 1,
+      "target": "Fantine"
+    },
+    {
+      "source": "Bamatabois",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Bamatabois",
+      "value": 2,
+      "target": "Valjean"
+    },
+    {
+      "source": "Perpetue",
+      "value": 1,
+      "target": "Fantine"
+    },
+    {
+      "source": "Simplice",
+      "value": 2,
+      "target": "Perpetue"
+    },
+    {
+      "source": "Simplice",
+      "value": 3,
+      "target": "Valjean"
+    },
+    {
+      "source": "Simplice",
+      "value": 2,
+      "target": "Fantine"
+    },
+    {
+      "source": "Simplice",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Scaufflaire",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Woman1",
+      "value": 2,
+      "target": "Valjean"
+    },
+    {
+      "source": "Woman1",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Judge",
+      "value": 3,
+      "target": "Valjean"
+    },
+    {
+      "source": "Judge",
+      "value": 2,
+      "target": "Bamatabois"
+    },
+    {
+      "source": "Champmathieu",
+      "value": 3,
+      "target": "Valjean"
+    },
+    {
+      "source": "Champmathieu",
+      "value": 3,
+      "target": "Judge"
+    },
+    {
+      "source": "Champmathieu",
+      "value": 2,
+      "target": "Bamatabois"
+    },
+    {
+      "source": "Brevet",
+      "value": 2,
+      "target": "Judge"
+    },
+    {
+      "source": "Brevet",
+      "value": 2,
+      "target": "Champmathieu"
+    },
+    {
+      "source": "Brevet",
+      "value": 2,
+      "target": "Valjean"
+    },
+    {
+      "source": "Brevet",
+      "value": 1,
+      "target": "Bamatabois"
+    },
+    {
+      "source": "Chenildieu",
+      "value": 2,
+      "target": "Judge"
+    },
+    {
+      "source": "Chenildieu",
+      "value": 2,
+      "target": "Champmathieu"
+    },
+    {
+      "source": "Chenildieu",
+      "value": 2,
+      "target": "Brevet"
+    },
+    {
+      "source": "Chenildieu",
+      "value": 2,
+      "target": "Valjean"
+    },
+    {
+      "source": "Chenildieu",
+      "value": 1,
+      "target": "Bamatabois"
+    },
+    {
+      "source": "Cochepaille",
+      "value": 2,
+      "target": "Judge"
+    },
+    {
+      "source": "Cochepaille",
+      "value": 2,
+      "target": "Champmathieu"
+    },
+    {
+      "source": "Cochepaille",
+      "value": 2,
+      "target": "Brevet"
+    },
+    {
+      "source": "Cochepaille",
+      "value": 2,
+      "target": "Chenildieu"
+    },
+    {
+      "source": "Cochepaille",
+      "value": 2,
+      "target": "Valjean"
+    },
+    {
+      "source": "Cochepaille",
+      "value": 1,
+      "target": "Bamatabois"
+    },
+    {
+      "source": "Pontmercy",
+      "value": 1,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Boulatruelle",
+      "value": 1,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Eponine",
+      "value": 2,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Eponine",
+      "value": 3,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Anzelma",
+      "value": 2,
+      "target": "Eponine"
+    },
+    {
+      "source": "Anzelma",
+      "value": 2,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Anzelma",
+      "value": 1,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Woman2",
+      "value": 3,
+      "target": "Valjean"
+    },
+    {
+      "source": "Woman2",
+      "value": 1,
+      "target": "Cosette"
+    },
+    {
+      "source": "Woman2",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "MotherInnocent",
+      "value": 3,
+      "target": "Fauchelevent"
+    },
+    {
+      "source": "MotherInnocent",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Gribier",
+      "value": 2,
+      "target": "Fauchelevent"
+    },
+    {
+      "source": "Mme.Burgon",
+      "value": 1,
+      "target": "Jondrette"
+    },
+    {
+      "source": "Gavroche",
+      "value": 2,
+      "target": "Mme.Burgon"
+    },
+    {
+      "source": "Gavroche",
+      "value": 1,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Gavroche",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Gavroche",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Gillenormand",
+      "value": 3,
+      "target": "Cosette"
+    },
+    {
+      "source": "Gillenormand",
+      "value": 2,
+      "target": "Valjean"
+    },
+    {
+      "source": "Magnon",
+      "value": 1,
+      "target": "Gillenormand"
+    },
+    {
+      "source": "Magnon",
+      "value": 1,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Mlle.Gillenormand",
+      "value": 9,
+      "target": "Gillenormand"
+    },
+    {
+      "source": "Mlle.Gillenormand",
+      "value": 2,
+      "target": "Cosette"
+    },
+    {
+      "source": "Mlle.Gillenormand",
+      "value": 2,
+      "target": "Valjean"
+    },
+    {
+      "source": "Mme.Pontmercy",
+      "value": 1,
+      "target": "Mlle.Gillenormand"
+    },
+    {
+      "source": "Mme.Pontmercy",
+      "value": 1,
+      "target": "Pontmercy"
+    },
+    {
+      "source": "Mlle.Vaubois",
+      "value": 1,
+      "target": "Mlle.Gillenormand"
+    },
+    {
+      "source": "Lt.Gillenormand",
+      "value": 2,
+      "target": "Mlle.Gillenormand"
+    },
+    {
+      "source": "Lt.Gillenormand",
+      "value": 1,
+      "target": "Gillenormand"
+    },
+    {
+      "source": "Lt.Gillenormand",
+      "value": 1,
+      "target": "Cosette"
+    },
+    {
+      "source": "Marius",
+      "value": 6,
+      "target": "Mlle.Gillenormand"
+    },
+    {
+      "source": "Marius",
+      "value": 12,
+      "target": "Gillenormand"
+    },
+    {
+      "source": "Marius",
+      "value": 1,
+      "target": "Pontmercy"
+    },
+    {
+      "source": "Marius",
+      "value": 1,
+      "target": "Lt.Gillenormand"
+    },
+    {
+      "source": "Marius",
+      "value": 21,
+      "target": "Cosette"
+    },
+    {
+      "source": "Marius",
+      "value": 19,
+      "target": "Valjean"
+    },
+    {
+      "source": "Marius",
+      "value": 1,
+      "target": "Tholomyes"
+    },
+    {
+      "source": "Marius",
+      "value": 2,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Marius",
+      "value": 5,
+      "target": "Eponine"
+    },
+    {
+      "source": "Marius",
+      "value": 4,
+      "target": "Gavroche"
+    },
+    {
+      "source": "BaronessT",
+      "value": 1,
+      "target": "Gillenormand"
+    },
+    {
+      "source": "BaronessT",
+      "value": 1,
+      "target": "Marius"
+    },
+    {
+      "source": "Mabeuf",
+      "value": 1,
+      "target": "Marius"
+    },
+    {
+      "source": "Mabeuf",
+      "value": 1,
+      "target": "Eponine"
+    },
+    {
+      "source": "Mabeuf",
+      "value": 1,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Enjolras",
+      "value": 7,
+      "target": "Marius"
+    },
+    {
+      "source": "Enjolras",
+      "value": 7,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Enjolras",
+      "value": 6,
+      "target": "Javert"
+    },
+    {
+      "source": "Enjolras",
+      "value": 1,
+      "target": "Mabeuf"
+    },
+    {
+      "source": "Enjolras",
+      "value": 4,
+      "target": "Valjean"
+    },
+    {
+      "source": "Combeferre",
+      "value": 15,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Combeferre",
+      "value": 5,
+      "target": "Marius"
+    },
+    {
+      "source": "Combeferre",
+      "value": 6,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Combeferre",
+      "value": 2,
+      "target": "Mabeuf"
+    },
+    {
+      "source": "Prouvaire",
+      "value": 1,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Prouvaire",
+      "value": 4,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Prouvaire",
+      "value": 2,
+      "target": "Combeferre"
+    },
+    {
+      "source": "Feuilly",
+      "value": 2,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Feuilly",
+      "value": 6,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Feuilly",
+      "value": 2,
+      "target": "Prouvaire"
+    },
+    {
+      "source": "Feuilly",
+      "value": 5,
+      "target": "Combeferre"
+    },
+    {
+      "source": "Feuilly",
+      "value": 1,
+      "target": "Mabeuf"
+    },
+    {
+      "source": "Feuilly",
+      "value": 1,
+      "target": "Marius"
+    },
+    {
+      "source": "Courfeyrac",
+      "value": 9,
+      "target": "Marius"
+    },
+    {
+      "source": "Courfeyrac",
+      "value": 17,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Courfeyrac",
+      "value": 13,
+      "target": "Combeferre"
+    },
+    {
+      "source": "Courfeyrac",
+      "value": 7,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Courfeyrac",
+      "value": 2,
+      "target": "Mabeuf"
+    },
+    {
+      "source": "Courfeyrac",
+      "value": 1,
+      "target": "Eponine"
+    },
+    {
+      "source": "Courfeyrac",
+      "value": 6,
+      "target": "Feuilly"
+    },
+    {
+      "source": "Courfeyrac",
+      "value": 3,
+      "target": "Prouvaire"
+    },
+    {
+      "source": "Bahorel",
+      "value": 5,
+      "target": "Combeferre"
+    },
+    {
+      "source": "Bahorel",
+      "value": 5,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Bahorel",
+      "value": 6,
+      "target": "Courfeyrac"
+    },
+    {
+      "source": "Bahorel",
+      "value": 2,
+      "target": "Mabeuf"
+    },
+    {
+      "source": "Bahorel",
+      "value": 4,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Bahorel",
+      "value": 3,
+      "target": "Feuilly"
+    },
+    {
+      "source": "Bahorel",
+      "value": 2,
+      "target": "Prouvaire"
+    },
+    {
+      "source": "Bahorel",
+      "value": 1,
+      "target": "Marius"
+    },
+    {
+      "source": "Bossuet",
+      "value": 5,
+      "target": "Marius"
+    },
+    {
+      "source": "Bossuet",
+      "value": 12,
+      "target": "Courfeyrac"
+    },
+    {
+      "source": "Bossuet",
+      "value": 5,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Bossuet",
+      "value": 4,
+      "target": "Bahorel"
+    },
+    {
+      "source": "Bossuet",
+      "value": 10,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Bossuet",
+      "value": 6,
+      "target": "Feuilly"
+    },
+    {
+      "source": "Bossuet",
+      "value": 2,
+      "target": "Prouvaire"
+    },
+    {
+      "source": "Bossuet",
+      "value": 9,
+      "target": "Combeferre"
+    },
+    {
+      "source": "Bossuet",
+      "value": 1,
+      "target": "Mabeuf"
+    },
+    {
+      "source": "Bossuet",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Joly",
+      "value": 5,
+      "target": "Bahorel"
+    },
+    {
+      "source": "Joly",
+      "value": 7,
+      "target": "Bossuet"
+    },
+    {
+      "source": "Joly",
+      "value": 3,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Joly",
+      "value": 5,
+      "target": "Courfeyrac"
+    },
+    {
+      "source": "Joly",
+      "value": 5,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Joly",
+      "value": 5,
+      "target": "Feuilly"
+    },
+    {
+      "source": "Joly",
+      "value": 2,
+      "target": "Prouvaire"
+    },
+    {
+      "source": "Joly",
+      "value": 5,
+      "target": "Combeferre"
+    },
+    {
+      "source": "Joly",
+      "value": 1,
+      "target": "Mabeuf"
+    },
+    {
+      "source": "Joly",
+      "value": 2,
+      "target": "Marius"
+    },
+    {
+      "source": "Grantaire",
+      "value": 3,
+      "target": "Bossuet"
+    },
+    {
+      "source": "Grantaire",
+      "value": 3,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Grantaire",
+      "value": 1,
+      "target": "Combeferre"
+    },
+    {
+      "source": "Grantaire",
+      "value": 2,
+      "target": "Courfeyrac"
+    },
+    {
+      "source": "Grantaire",
+      "value": 2,
+      "target": "Joly"
+    },
+    {
+      "source": "Grantaire",
+      "value": 1,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Grantaire",
+      "value": 1,
+      "target": "Bahorel"
+    },
+    {
+      "source": "Grantaire",
+      "value": 1,
+      "target": "Feuilly"
+    },
+    {
+      "source": "Grantaire",
+      "value": 1,
+      "target": "Prouvaire"
+    },
+    {
+      "source": "MotherPlutarch",
+      "value": 3,
+      "target": "Mabeuf"
+    },
+    {
+      "source": "Gueulemer",
+      "value": 5,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Gueulemer",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Gueulemer",
+      "value": 1,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Gueulemer",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Gueulemer",
+      "value": 1,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Gueulemer",
+      "value": 1,
+      "target": "Eponine"
+    },
+    {
+      "source": "Babet",
+      "value": 6,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Babet",
+      "value": 6,
+      "target": "Gueulemer"
+    },
+    {
+      "source": "Babet",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Babet",
+      "value": 1,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Babet",
+      "value": 2,
+      "target": "Javert"
+    },
+    {
+      "source": "Babet",
+      "value": 1,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Babet",
+      "value": 1,
+      "target": "Eponine"
+    },
+    {
+      "source": "Claquesous",
+      "value": 4,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Claquesous",
+      "value": 4,
+      "target": "Babet"
+    },
+    {
+      "source": "Claquesous",
+      "value": 4,
+      "target": "Gueulemer"
+    },
+    {
+      "source": "Claquesous",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Claquesous",
+      "value": 1,
+      "target": "Mme.Thenardier"
+    },
+    {
+      "source": "Claquesous",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Claquesous",
+      "value": 1,
+      "target": "Eponine"
+    },
+    {
+      "source": "Claquesous",
+      "value": 1,
+      "target": "Enjolras"
+    },
+    {
+      "source": "Montparnasse",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Montparnasse",
+      "value": 2,
+      "target": "Babet"
+    },
+    {
+      "source": "Montparnasse",
+      "value": 2,
+      "target": "Gueulemer"
+    },
+    {
+      "source": "Montparnasse",
+      "value": 2,
+      "target": "Claquesous"
+    },
+    {
+      "source": "Montparnasse",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Montparnasse",
+      "value": 1,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Montparnasse",
+      "value": 1,
+      "target": "Eponine"
+    },
+    {
+      "source": "Montparnasse",
+      "value": 1,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Toussaint",
+      "value": 2,
+      "target": "Cosette"
+    },
+    {
+      "source": "Toussaint",
+      "value": 1,
+      "target": "Javert"
+    },
+    {
+      "source": "Toussaint",
+      "value": 1,
+      "target": "Valjean"
+    },
+    {
+      "source": "Child1",
+      "value": 2,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Child2",
+      "value": 2,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Child2",
+      "value": 3,
+      "target": "Child1"
+    },
+    {
+      "source": "Brujon",
+      "value": 3,
+      "target": "Babet"
+    },
+    {
+      "source": "Brujon",
+      "value": 3,
+      "target": "Gueulemer"
+    },
+    {
+      "source": "Brujon",
+      "value": 3,
+      "target": "Thenardier"
+    },
+    {
+      "source": "Brujon",
+      "value": 1,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Brujon",
+      "value": 1,
+      "target": "Eponine"
+    },
+    {
+      "source": "Brujon",
+      "value": 1,
+      "target": "Claquesous"
+    },
+    {
+      "source": "Brujon",
+      "value": 1,
+      "target": "Montparnasse"
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "value": 1,
+      "target": "Bossuet"
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "value": 1,
+      "target": "Joly"
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "value": 1,
+      "target": "Grantaire"
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "value": 1,
+      "target": "Bahorel"
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "value": 1,
+      "target": "Courfeyrac"
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "value": 1,
+      "target": "Gavroche"
+    },
+    {
+      "source": "Mme.Hucheloup",
+      "value": 1,
+      "target": "Enjolras"
+    }
+  ],
+  "params": {
+    "paused": false,
+    "fdlTimestep": 0.3115151524543762,
+    "fdlEdgeScale": 0.009999999776482582,
+    "fpfSpringLength": 0.009999999776482582,
+    "fdlCoulombConstant": 404.0463562011719,
+    "fdlPointScale": 7.525252342224121,
+    "fdlSpringConstant": 1.1200000047683716,
+    "clusterSpringLength": 200,
+    "fdlScale": 1.4246675968170166,
+    "unweighted": false,
+    "fdlCurCenX": 574.838623046875,
+    "fdlCurCenY": 391.1135559082031,
+    "fpfSpringForce": 10.509798049926758,
+    "fpfCoulombConstant": 707.0800170898438,
+    "fdlRestingLength": 1.0190908908843994,
+    "colormap": 0,
+    "unweightedEgoHops": 1
+  },
+  "barcode": {
+    "scrollBX": 196,
+    "status": [
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "REPEL",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "ATTRACT",
+      "REPEL",
+      "ATTRACT",
+      "REPEL",
+      "REPEL",
+      "REPEL",
+      "REPEL",
+      "ATTRACT",
+      "ATTRACT",
+      "REPEL",
+      "REPEL",
+      "REPEL",
+      "REPEL",
+      "REPEL",
+      "ATTRACT",
+      "REPEL",
+      "REPEL"
+    ]
+  }
+}
