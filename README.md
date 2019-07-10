@@ -18,11 +18,11 @@ Required Software
 ------------------------
 How to run
 ------------------------
-- Our software is located in TopoFDL0D
-- Our datasets are located in TopoFDL0D/data
-- Our layouts generated for figures are located in TopoFDL0D/data/paper_layouts
+- Our software is located in PHFDL0D
+- Our datasets are located in PHFDL0D/data
+- Our layouts generated for figures are located in PHFDL0D/data/paper_layouts
 
-- Run Topo0DFDL in Processing and select one of the datasets provided:
+- Run PHFDL0D in Processing and select one of the datasets provided:
   - 6ary.json 
   - airport.json 
   - barbell.json 
